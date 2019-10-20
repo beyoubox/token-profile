@@ -1,0 +1,16 @@
+{
+    "symbol": "BYC",
+    "address": "0x460cbb9409a024a55f2b7b7f69afd0da385ce850",
+    "overview":{
+          "en": "BEYOU CHAIN is a pan-entertainment chain based on smart contracts. With a decentralized structure, it directly links the constituent molecules of the entire game ecological chain to achieve direct docking, non-destructive circulation and point-to-point payment of individual values. Throughout the BEYOU CHAIN ecosystem, game developers and players around the world are able to turn the value they produce into their own revenue.",
+          "zh": "BEYOU CHAIN是基于智能合约打造的泛娱乐公链。它以去中心化的结构，直接将整个游戏生态链上的组成分子有机地链接起来，实现个体价值的直接对接、无损流通和点对点支付。在整个BEYOU CHAIN生态中，全球的游戏开发者与玩家，能够让自己所产出的价值转化为自身的收益。"
+    },
+    "email": "people@beyoubox.com",
+    "website": "https://stoken-cn.readthedocs.io",
+    "whitepaper": "https://beyoubox.github.io/statics/Beyou.pdf",
+    "state": "NORMAL",
+    "published_on": "2019-09-26",
+    "links": {
+        "twitter": "https://twitter.com/RachelS47748437"
+      }
+}
